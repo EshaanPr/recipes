@@ -6,10 +6,16 @@
 }
 p{
     font-weight: 100;
-    border:2px solid red;
-    padding:100px;
 }
 img{
     height:auto;
     width:500px;
+}
+/* boxes */
+#paddingexample{
+    background-color: red;
+    font-size: 20px;
+    padding: 10px;
+    border: 30px solid #9b51e0;
+    margin: 60px;
 }
